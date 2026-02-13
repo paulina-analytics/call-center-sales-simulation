@@ -45,14 +45,14 @@ This repository is intentionally transparent about that collaboration.
 
 ## 🧠 Key Insights
 
-- Most calls generate low or marginal profit — a small subset drives most of the value
+- Most calls generate low or marginal profit - a small subset drives most of the value
 - Humans clearly outperform AI on high-value, high-risk calls
 - AI performs comparably on low-value calls while being significantly cheaper
 - Random routing performs worse than both human-only and smart routing
 - Smart routing (based on relative advantage) delivers the highest average profit per call
 
 **Conclusion:**  
-AI should not replace humans — it should **filter and prioritize**, allowing humans to focus where they add the most value.
+AI should not replace humans - it should **filter and prioritize**, allowing humans to focus where they add the most value.
 
 ---
 
