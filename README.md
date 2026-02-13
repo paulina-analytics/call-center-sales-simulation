@@ -58,6 +58,7 @@ AI should not replace humans - it should **filter and prioritize**, allowing hum
 
 ## 🗂 Project Structure
 
+```text
 call-center-sales-simulation/
 │
 ├── R/
@@ -74,8 +75,7 @@ call-center-sales-simulation/
 ├── assumptions.md
 ├── .gitignore
 └── call-center-sales-simulation.Rproj
-
-
+```
 ---
 
 ## ⚠️ Assumptions & Limitations
